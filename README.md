@@ -1,7 +1,9 @@
 # TP3 REST : Microservices « Calculatrice » avec Spring Boot
 
-**Matière :** Architecture MicroServices  
+**Matière :** Architecture MicroServices 
+
 **Filière :** MPSRCC1
+
 **Réalisé par :** Mguidich Yosr
 
 Deux microservices indépendants :
